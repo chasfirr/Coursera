@@ -1,0 +1,10 @@
+body {
+	background-color: green;
+	align-content: center;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+p>a:hover {
+	text-transform: none;
+	font-size: 18px;
+}
